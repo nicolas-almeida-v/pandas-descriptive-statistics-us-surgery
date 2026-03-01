@@ -33,7 +33,7 @@ License: Community Data License Agreement – Permissive v1.0
 ---
 
 ## Related projects
-- [Manipulating Data with Pandas]([https://github.com/nicolas-almeida-v/pandas-data-cleaning-us-surgery](https://github.com/nicolas-almeida-v/pandas-data-cleaning-us-surgery))
+- [Manipulating Data with Pandas](https://github.com/nicolas-almeida-v/pandas-data-cleaning-us-surgery)
 
 ---
 
