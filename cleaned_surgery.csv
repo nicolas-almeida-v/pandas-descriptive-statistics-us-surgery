@@ -1,0 +1,599 @@
+City,Procedure,No. of Surgeons,Surgeon Volume,Average Price ($),Minimum Price ($),Maximum Price ($),Top Rated Surgeon,More Information
+Tampa,Tummy Tuck,419,High,8512.0,7000.0,14000.0,Dr. John Roach,https://www.aestheticmatch.com/cities/tampa
+Tampa,Breast Reduction,169,High,12712.0,6000.0,11200.0,"Dr. Traci Temmen, MD",https://www.aestheticmatch.com/cities/tampa
+Tampa,Liposuction,156,High,8960.0,4000.0,11000.0,Dr. Traci Temmen,https://www.aestheticmatch.com/cities/tampa
+Tampa,Breast Implants,152,High,6384.0,4500.0,6500.0,Dr. Jaime Perez,https://www.aestheticmatch.com/cities/tampa
+Tampa,Facelift,147,Intermediate,13776.0,8900.0,17000.0,"Dr. Demetri Arnaoutakis, MD",https://www.aestheticmatch.com/cities/tampa
+Tampa,Nose Plastic Surgery (Rhinoplasty),190,High,11648.0,9000.0,12000.0,Dr. Dominic Castellano,https://www.aestheticmatch.com/cities/tampa
+Miami,Tummy Tuck,576,High,9040.64,3000.0,12000.0,Dr. K (DrKMiamiPlasticSurgery.com),https://www.aestheticmatch.com/cities/miami
+Miami,Liposuction,323,High,4256.0,1500.0,10000.0,"Dr. Daniel K. Becker, MD, FACS",https://www.aestheticmatch.com/cities/miami
+Miami,Breast Reduction,277,High,7504.0,3000.0,12000.0,Dr. K (Dr. K Plastic Surgery),https://www.aestheticmatch.com/cities/miami
+Miami,Breast Implants,271,High,6496.0,2300.0,12000.0,Dr. Mel Ortega,https://www.aestheticmatch.com/cities/miami
+Miami,Facelift,253,High,22601.6,10000.0,38000.0,Dr. Constantino Mendieta,https://www.aestheticmatch.com/cities/miami
+Miami,Nose Plastic Surgery (Rhinoplasty),289,High,9520.0,6000.0,14000.0,Dr. Anthony Bared,https://www.aestheticmatch.com/cities/miami
+Los Angeles,Tummy Tuck,1081,High,17225.6,4000.0,20000.0,Dr. Stephen Bresnick,https://www.aestheticmatch.com/cities/los-angeles
+Los Angeles,Breast Reduction,468,High,15568.0,7500.0,15000.0,Dr. Gary Motykie,https://www.aestheticmatch.com/cities/los-angeles
+Los Angeles,Liposuction,422,High,7784.0,2000.0,40000.0,Dr. Sarah Yovino,https://www.aestheticmatch.com/cities/los-angeles
+Los Angeles,Breast Implants,407,High,10192.0,7500.0,12500.0,Dr. David Stoker,https://www.aestheticmatch.com/cities/los-angeles
+Los Angeles,Facelift,379,High,24080.0,6000.0,14000.0,Dr. Jay Calvert,https://www.aestheticmatch.com/cities/los-angeles
+Los Angeles,Nose Plastic Surgery (Rhinoplasty),453,High,10248.0,7500.0,20000.0,Dr. Babak Azizzadeh,https://www.aestheticmatch.com/cities/los-angeles
+Houston,Tummy Tuck,105,Intermediate,13608.0,6000.0,14000.0,Dr. Christopher Patronella,https://www.aestheticmatch.com/cities/houston
+Houston,Breast Reduction,32,Intermediate,9072.0,6500.0,10000.0,Dr. Ahmadi,https://www.aestheticmatch.com/cities/houston
+Houston,Breast Implants,18,Low,8792.0,6000.0,10000.0,Dr. Ravi Somayazula,https://www.aestheticmatch.com/cities/houston
+Houston,Liposuction,15,Low,5264.0,3500.0,8800.0,Dr. Christopher Patronella,https://www.aestheticmatch.com/cities/houston
+Houston,Facelift,9,Low,16800.0,7000.0,25000.0,Dr. Sameer Patel,https://www.aestheticmatch.com/cities/houston
+Houston,Nose Plastic Surgery (Rhinoplasty),13,Low,8601.6,6000.0,12000.0,Dr. Christopher Funk,https://www.aestheticmatch.com/cities/houston
+Dallas,Tummy Tuck,62,Intermediate,14215.04,3175.0,22000.0,Dr. Farris,https://www.aestheticmatch.com/cities/dallas
+Dallas,Facelift,6,Low,16968.0,6000.0,14000.0,Dr. David Liland,https://www.aestheticmatch.com/cities/dallas
+Dallas,Liposuction,4,Low,8400.0,3000.0,17000.0,Dr. Steve Liland,https://www.aestheticmatch.com/cities/dallas
+Dallas,Breast Reduction,13,Low,10124.8,6500.0,14400.0,Dr. Paul Liland,https://www.aestheticmatch.com/cities/dallas
+Dallas,Breast Implants,7,Low,8008.0,5700.0,14500.0,"Dr. Michael Farris, MD",https://www.aestheticmatch.com/cities/dallas
+Dallas,Nose Plastic Surgery (Rhinoplasty),16,Low,11368.0,4125.0,22000.0,"Dr. Jesse E. Smith, MD, FACS",https://www.aestheticmatch.com/cities/dallas
+Atlanta,Tummy Tuck,134,Intermediate,15904.0,7000.0,25000.0,Dr. Thomas Yalif,https://www.aestheticmatch.com/cities/atlanta
+Atlanta,Breast Reduction,39,Intermediate,11368.0,6000.0,14000.0,Dr. Richard J. Arslanian,https://www.aestheticmatch.com/cities/atlanta
+Atlanta,Liposuction,23,Intermediate,3472.0,750.0,5500.0,Plastic Surgery Center of the South,https://www.aestheticmatch.com/cities/atlanta
+Atlanta,Breast Implants,26,Intermediate,5790.4,3000.0,12000.0,Dr. Paul McCluskey,https://www.aestheticmatch.com/cities/atlanta
+Atlanta,Facelift,19,Intermediate,8988.0,3500.0,35000.0,Dr. Aaron Fletcher,https://www.aestheticmatch.com/cities/atlanta
+Atlanta,Nose Plastic Surgery (Rhinoplasty),38,Intermediate,9072.0,4800.0,15450.0,Dr. Aaron Fletcher,https://www.aestheticmatch.com/cities/atlanta
+Winston-Salem,Tummy Tuck,173,High,10192.0,6000.0,12000.0,"Dr. Andrew M. Schneider, M.D., F.A.C.S.",https://www.aestheticmatch.com
+Wichita,Tummy Tuck,59,Intermediate,9856.0,6000.0,11500.0,"Dr. Matthew Conrad, MD",https://www.aestheticmatch.com
+Winston-Salem,Breast Reduction,39,Intermediate,12096.0,6000.0,14000.0,Salem Plastic Surgery,https://www.aestheticmatch.com
+Wichita,Breast Reduction,24,Intermediate,7476.0,4831.0,8335.0,"Dr. Matthew Conrad, MD, PA",https://www.aestheticmatch.com
+Winston-Salem,Facelift,29,Intermediate,16408.0,14000.0,16000.0,Dr. Sanjay Daluvoy,https://www.aestheticmatch.com
+Winston-Salem,Liposuction,23,Intermediate,5824.0,3000.0,8000.0,Dr. Gilson J. Kingman,https://www.aestheticmatch.com
+Winston-Salem,Breast Implants,24,Intermediate,8590.4,7500.0,8000.0,Dr. Charles Milliken,https://www.aestheticmatch.com
+Wichita,Breast Implants,10,Low,6401.92,4875.0,15109.0,Dr. James M. Shaw,https://www.aestheticmatch.com
+Wichita,Liposuction,8,Low,5712.0,3000.0,8000.0,"Dr. James A. Rieger, MD",https://www.aestheticmatch.com
+Wichita,Facelift,7,Low,11424.0,8000.0,22000.0,Dr. James Shaw,https://www.aestheticmatch.com
+Winston-Salem,Nose Plastic Surgery (Rhinoplasty),41,Intermediate,9520.0,6000.0,15000.0,"Dr. Scott L. Tucker, MD",https://www.aestheticmatch.com
+Wichita,Nose Plastic Surgery (Rhinoplasty),17,Low,9968.0,5000.0,15000.0,"Dr. Matthew H. Conrad, MD",https://www.aestheticmatch.com
+Washington,Nose Plastic Surgery (Rhinoplasty),127,Intermediate,16576.0,2500.0,15000.0,Dr. Michael Weinfeld,https://www.aestheticmatch.com
+Washington,Tummy Tuck,521,High,10080.0,6000.0,15000.0,Dr. Philip J. Miller,https://www.aestheticmatch.com
+Virginia Beach,Tummy Tuck,145,Intermediate,10192.0,6000.0,15000.0,Dr. Michael J. Zaremba,https://www.aestheticmatch.com
+Tulsa,Tummy Tuck,95,Intermediate,11458.72,5000.0,22900.0,Dr. Brenda Schiesel,https://www.aestheticmatch.com
+Tucson,Tummy Tuck,97,Intermediate,8736.0,5000.0,15000.0,Dr. Scott Hurst,https://www.aestheticmatch.com
+Toledo,Tummy Tuck,67,Intermediate,10416.0,5000.0,12000.0,Dr. John Zavell,https://www.aestheticmatch.com
+Stockton,Tummy Tuck,391,High,12432.0,10000.0,12000.0,Dr. Victor Mabourakh,https://www.aestheticmatch.com
+St. Petersburg,Tummy Tuck,1878,High,10251.36,7500.0,11350.0,Dr. John J. O’Brien,https://www.aestheticmatch.com
+St. Louis,Tummy Tuck,1878,High,14392.0,11000.0,17000.0,"Dr. Paul Rottler, MD",https://www.aestheticmatch.com
+Seattle,Tummy Tuck,404,High,13349.28,7000.0,15000.0,Dr. Kris Day,https://www.aestheticmatch.com
+Scottsdale,Tummy Tuck,361,High,13384.0,7000.0,27500.0,Dr. Anthony Tessler,https://www.aestheticmatch.com
+Santa Ana,Tummy Tuck,1102,High,13154.4,8000.0,20000.0,Dr. Wayne Yamahata,https://www.aestheticmatch.com
+San Jose,Tummy Tuck,593,High,14784.0,10000.0,15000.0,Dr. Alexander Ereso,https://www.aestheticmatch.com
+San Francisco,Tummy Tuck,631,High,13216.0,8000.0,20000.0,Dr. Kimberly Henry,https://www.aestheticmatch.com
+San Diego,Tummy Tuck,257,High,13272.0,4995.0,18500.0,Dr. Larry Pollack,https://www.aestheticmatch.com
+San Antonio,Tummy Tuck,443,High,13608.0,6000.0,30000.0,Dr. Thomas Jeneby,https://www.aestheticmatch.com
+Saint Paul,Tummy Tuck,308,High,17323.04,5000.0,22900.0,Dr. Thao,https://www.aestheticmatch.com
+Sacramento,Tummy Tuck,287,High,14832.16,9000.0,15000.0,Dr. Wayne Yamahata,https://www.aestheticmatch.com
+Riverside,Tummy Tuck,82,Intermediate,10998.4,7000.0,12500.0,Dr. Ben Childers,https://www.aestheticmatch.com
+Richmond,Tummy Tuck,11,Low,11424.0,6950.0,18000.0,Dr. Gordon Lewis,https://www.aestheticmatch.com
+Reno,Tummy Tuck,61,Intermediate,11368.0,7000.0,15000.0,Dr. Timothy Janiga,https://www.aestheticmatch.com
+Raleigh,Tummy Tuck,40,Intermediate,12174.4,10000.0,11500.0,Dr. William Stoeckel,https://www.aestheticmatch.com
+Portland,Tummy Tuck,166,High,12432.0,7000.0,15300.0,Dr. David Bohley,https://www.aestheticmatch.com
+Port St. Lucie,Tummy Tuck,150,High,9072.0,8000.0,10000.0,Dr. Lee,https://www.aestheticmatch.com
+Plano,Tummy Tuck,19,Intermediate,13664.0,7475.0,22000.0,"Dr. Ronald M. Friedman, M.D.",https://www.aestheticmatch.com
+Pittsburgh,Tummy Tuck,245,High,8288.0,6500.0,9000.0,"Dr. Wooten, Beleza Plastic Surgery",https://www.aestheticmatch.com
+Phoenix,Tummy Tuck,640,High,15008.0,10000.0,17000.0,"Dr. William Hall, M.D. at Infini Phoenix Liposuction",https://www.aestheticmatch.com
+Philadelphia,Tummy Tuck,13,Low,14515.2,11000.0,18000.0,Dr. David Bottger,https://www.aestheticmatch.com
+Orlando,Tummy Tuck,111,Intermediate,15456.0,6000.0,22000.0,Dr. Jon Paul Trevisani,https://www.aestheticmatch.com
+Omaha,Tummy Tuck,62,Intermediate,13216.0,6000.0,12000.0,Dr. Ayoub,https://www.aestheticmatch.com
+Oklahoma City,Tummy Tuck,124,Intermediate,11984.0,5000.0,15000.0,Dr. Clinton Webster,https://www.aestheticmatch.com
+Oakland,Tummy Tuck,638,High,14784.0,8000.0,20000.0,"Dr. Wayne Yamahta, East Bay Plastic Surgery, Oakland, CA",https://www.aestheticmatch.com
+North Las Vegas,Tummy Tuck,131,Intermediate,10304.0,6000.0,15000.0,Dr. Joseph Stile,https://www.aestheticmatch.com
+Norfolk,Tummy Tuck,20,Intermediate,13216.0,8000.0,15000.0,Dr. Sundin,https://www.aestheticmatch.com
+Newark,Tummy Tuck,166,High,9044.0,4500.0,15000.0,Dr. Joanna Partridge at Partridge Plastic Surgery,https://www.aestheticmatch.com
+New York,Tummy Tuck,1733,High,16161.6,5000.0,16500.0,"Dr. Matthew Schulman, M.D.",https://www.aestheticmatch.com
+New Orleans,Tummy Tuck,180,High,15848.0,6000.0,22000.0,Dr. Jules Walters,https://www.aestheticmatch.com
+Nashville,Tummy Tuck,16,Low,13552.0,5500.0,25000.0,Dr. Harris,https://www.aestheticmatch.com
+Minneapolis,Tummy Tuck,128,Intermediate,12992.0,7000.0,15000.0,Dr. Gregory T. Mesna,https://www.aestheticmatch.com
+Milwaukee,Tummy Tuck,27,Intermediate,11760.0,5000.0,17000.0,Dr. Mark Bonness,https://www.aestheticmatch.com
+Mesa,Tummy Tuck,361,High,14224.0,10000.0,15000.0,"Dr. Jude LaBarbera, MD",https://www.aestheticmatch.com
+Memphis,Tummy Tuck,329,High,11648.0,8250.0,20000.0,Dr. John Rosdeutscher,https://www.aestheticmatch.com
+Madison,Tummy Tuck,463,High,9128.0,7000.0,10000.0,Dr. Ember Ewings,https://www.aestheticmatch.com
+Lubbock,Tummy Tuck,52,Intermediate,18984.0,12500.0,22000.0,"Dr. Jane Rowley, Rowley Plastic Surgery",https://www.aestheticmatch.com
+Louisville,Tummy Tuck,350,High,10304.0,5470.0,15000.0,Dr. Corbett,https://www.aestheticmatch.com
+Long Beach,Tummy Tuck,1060,High,10976.0,6000.0,12000.0,Dr. Naim,https://www.aestheticmatch.com
+Lincoln,Tummy Tuck,653,High,9340.8,8000.0,9000.0,Dr. Jacobson,https://www.aestheticmatch.com
+Lexington,Tummy Tuck,45,Intermediate,12376.0,8000.0,15000.0,Dr. Jared Nimtz,https://www.aestheticmatch.com
+Las Vegas,Tummy Tuck,131,Intermediate,9856.0,4000.0,15000.0,Dr. Bryson Richards,https://www.aestheticmatch.com
+Laredo,Tummy Tuck,8,Low,14448.0,10000.0,16000.0,Dr. Nader Sukkar,https://www.aestheticmatch.com
+Kansas City,Tummy Tuck,200,High,9098.88,6000.0,18000.0,Dr. Namrata Chhatre,https://www.aestheticmatch.com
+Jacksonville,Tummy Tuck,97,Intermediate,11424.0,8000.0,16000.0,Dr. Patrick Basile,https://www.aestheticmatch.com
+Irving,Tummy Tuck,121,Intermediate,14224.0,8000.0,19000.0,"Dr. Raja Mohan, MD",https://www.aestheticmatch.com
+Irvine,Tummy Tuck,116,Intermediate,12880.0,8000.0,17000.0,Dr. Wayne Yamahata,https://www.aestheticmatch.com
+Indianapolis,Tummy Tuck,229,High,8568.0,6995.0,12500.0,Dr. Kimberly Short,https://www.aestheticmatch.com
+Honolulu,Tummy Tuck,78,Intermediate,14795.2,9000.0,20000.0,Dr. Scott Ennis,https://www.aestheticmatch.com
+Hialeah,Tummy Tuck,584,High,9072.0,3000.0,12875.0,Dr. Bernabe Vazquez,https://www.aestheticmatch.com
+Henderson,Tummy Tuck,13,Low,10304.0,6000.0,22000.0,Dr. Bryson Richards,https://www.aestheticmatch.com
+Greensboro,Tummy Tuck,227,High,9194.08,6500.0,11000.0,Award-winning surgeons at H/K/B Cosmetic Surgery in Greensboro,https://www.aestheticmatch.com
+Glendale,Tummy Tuck,29,Intermediate,12768.0,6120.0,12587.0,Dr. Vartany,https://www.aestheticmatch.com
+Gilbert,Tummy Tuck,14,Low,14784.0,10000.0,15000.0,"Dr. Jude LaBarbera, MD",https://www.aestheticmatch.com
+Garland,Tummy Tuck,77,Intermediate,14255.36,6000.0,14000.0,Dr. Farris,https://www.aestheticmatch.com
+Frisco,Tummy Tuck,3,Low,18816.0,6000.0,14000.0,"Dr. Ronald M. Friedman, M.D.",https://www.aestheticmatch.com
+Fresno,Tummy Tuck,512,High,10304.0,6000.0,12000.0,"Dr. Mark A. Chin, MD",https://www.aestheticmatch.com
+Fort Worth,Tummy Tuck,561,High,14672.0,7500.0,17000.0,Dr. Vishnu Rumalla,https://www.aestheticmatch.com
+Fort Wayne,Tummy Tuck,118,Intermediate,8344.0,6000.0,9000.0,Dr. Kimberly Short,https://www.aestheticmatch.com
+El Paso,Tummy Tuck,66,Intermediate,9128.0,6000.0,10000.0,Dr. Mark Jabor,https://www.aestheticmatch.com
+Durham,Tummy Tuck,18,Low,12208.0,7135.0,11000.0,Dr. William Ortiz,https://www.aestheticmatch.com
+Detroit,Tummy Tuck,65,Intermediate,10416.0,6100.0,15000.0,Dr. Repta,https://www.aestheticmatch.com
+Denver,Tummy Tuck,507,High,21504.0,6000.0,14000.0,Dr. R. Winfield Ketchum (Peak Plastic Surgery),https://www.aestheticmatch.com
+Corpus Christi,Tummy Tuck,55,Intermediate,9296.0,6525.0,9550.0,Dr. Vijay Bindingnavele,https://www.aestheticmatch.com
+Columbus,Tummy Tuck,42,Intermediate,9856.0,8500.0,14000.0,Dr. Donaldson and Dr. Sieffert,https://www.aestheticmatch.com
+Colorado Springs,Tummy Tuck,121,Intermediate,16744.0,9000.0,25000.0,Dr. Steven Vath,https://www.aestheticmatch.com
+Cleveland,Tummy Tuck,92,Intermediate,9128.0,6000.0,12000.0,"Dr. Gregory M. Fedele, MD, FACS",https://www.aestheticmatch.com
+Cincinnati,Tummy Tuck,241,High,8512.0,3900.0,8725.0,"Dr. Loftus, Loftus Plastic Surgery Center",https://www.aestheticmatch.com
+Chula Vista,Tummy Tuck,250,High,13104.0,8000.0,20000.0,"Dr. Mark Mofid, MD, FACS",https://www.aestheticmatch.com
+Chicago,Tummy Tuck,655,High,9072.0,6100.0,15000.0,Dr. Laurie Casas,https://www.aestheticmatch.com
+Chesapeake,Tummy Tuck,149,Intermediate,13552.0,10500.0,14500.0,"Dr. Jon E. Paulk, MD (Norfolk Plastic Surgery)",https://www.aestheticmatch.com
+Charlotte,Tummy Tuck,49,Intermediate,10976.0,9700.0,10600.0,Dr. Chad Deal,https://www.aestheticmatch.com
+Chandler,Tummy Tuck,70,Intermediate,17136.0,6000.0,14000.0,Dr. Aldo Guerra,https://www.aestheticmatch.com
+Cape Coral,Tummy Tuck,127,Intermediate,10192.0,6000.0,12000.0,Dr. Robert Brueck,https://www.aestheticmatch.com
+Buffalo,Tummy Tuck,273,High,9128.0,6000.0,14000.0,Dr. Samuel Shatkin Jr.,https://www.aestheticmatch.com
+Boston,Tummy Tuck,56,Intermediate,13608.0,7000.0,17500.0,Dr. Jeffrey Lee,https://www.aestheticmatch.com
+Boise,Tummy Tuck,92,Intermediate,9072.0,6000.0,12000.0,Dr. Jonathan Kramer,https://www.aestheticmatch.com
+Baltimore,Tummy Tuck,269,High,14504.0,8000.0,20000.0,Dr. Ricardo L. Rodriguez,https://www.aestheticmatch.com
+Bakersfield,Tummy Tuck,54,Intermediate,15097.6,6000.0,14000.0,Dr. Mitts,https://www.aestheticmatch.com
+Austin,Tummy Tuck,0,Low,13664.0,8000.0,15000.0,Dr. Aisha White,https://www.aestheticmatch.com
+Aurora,Tummy Tuck,39,Intermediate,18816.0,7000.0,25000.0,Dr. Steven Vath,https://www.aestheticmatch.com
+Arlington,Tummy Tuck,41,Intermediate,10192.0,7500.0,15925.0,Dr. David Campbell,https://www.aestheticmatch.com
+Anchorage,Tummy Tuck,48,Intermediate,16853.76,5000.0,22900.0,Dr. Michael J. Schoggen,https://www.aestheticmatch.com
+Anaheim,Tummy Tuck,1111,High,9654.4,6000.0,12000.0,"Dr. Saba Motakef, MD",https://www.aestheticmatch.com
+Albuquerque,Tummy Tuck,71,Intermediate,8792.0,7600.0,8000.0,Dr. Miguel Gallegos,https://www.aestheticmatch.com
+Virginia Beach,Nose Plastic Surgery (Rhinoplasty),46,Intermediate,12544.0,4500.0,20000.0,Dr. William Choe,https://www.aestheticmatch.com
+Tulsa,Nose Plastic Surgery (Rhinoplasty),26,Intermediate,10304.0,7000.0,13000.0,Dr. Cuzalina,https://www.aestheticmatch.com
+Tucson,Nose Plastic Surgery (Rhinoplasty),26,Intermediate,8624.0,6000.0,15000.0,Dr. Jeffrey Nelson,https://www.aestheticmatch.com
+Toledo,Nose Plastic Surgery (Rhinoplasty),14,Low,9968.0,7000.0,15000.0,Dr. John F. Zavell,https://www.aestheticmatch.com
+Stockton,Nose Plastic Surgery (Rhinoplasty),127,Intermediate,7056.0,5400.0,7000.0,"Dr. James W. Pearson, MD",https://www.aestheticmatch.com
+St. Petersburg,Nose Plastic Surgery (Rhinoplasty),765,High,9408.0,5000.0,18000.0,Dr. Kevin Caceres,https://www.aestheticmatch.com
+St. Louis,Nose Plastic Surgery (Rhinoplasty),765,High,9128.0,3500.0,14000.0,"Dr. Brian Ridenour, MD",https://www.aestheticmatch.com
+Seattle,Nose Plastic Surgery (Rhinoplasty),112,Intermediate,9128.0,5000.0,11000.0,Dr. Stile,https://www.aestheticmatch.com
+Scottsdale,Nose Plastic Surgery (Rhinoplasty),138,Intermediate,12432.0,6000.0,15000.0,Dr. Todd Hobgood,https://www.aestheticmatch.com
+Santa Ana,Nose Plastic Surgery (Rhinoplasty),445,High,8400.0,5000.0,15000.0,"Dr. Ali Sajjadian, MD",https://www.aestheticmatch.com
+San Jose,Nose Plastic Surgery (Rhinoplasty),217,High,11536.0,7000.0,15000.0,Dr. Larry Berkowitz,https://www.aestheticmatch.com
+San Francisco,Nose Plastic Surgery (Rhinoplasty),227,High,13350.4,6000.0,14000.0,Dr. Mark Lee,https://www.aestheticmatch.com
+San Diego,Nose Plastic Surgery (Rhinoplasty),109,Intermediate,8624.0,4129.0,15470.0,"Dr. Roy David, MD",https://www.aestheticmatch.com
+San Antonio,Nose Plastic Surgery (Rhinoplasty),192,High,9016.0,4000.0,26000.0,Dr. Constance Barone,https://www.aestheticmatch.com
+Saint Paul,Nose Plastic Surgery (Rhinoplasty),91,Intermediate,11312.0,7000.0,15000.0,Dr. Joe Gryskiewicz,https://www.aestheticmatch.com
+Sacramento,Nose Plastic Surgery (Rhinoplasty),60,Intermediate,10304.0,5400.0,13500.0,Dr. Wayne Yamahata,https://www.aestheticmatch.com
+Riverside,Nose Plastic Surgery (Rhinoplasty),33,Intermediate,10976.0,5000.0,15000.0,"Dr. Ben Childers, MD",https://www.aestheticmatch.com
+Richmond,Nose Plastic Surgery (Rhinoplasty),2,Low,11424.0,5000.0,20000.0,"Dr. Burton M. Sundin, MD",https://www.aestheticmatch.com
+Reno,Nose Plastic Surgery (Rhinoplasty),24,Intermediate,9094.4,6500.0,9500.0,Dr. Dayan,https://www.aestheticmatch.com
+Raleigh,Nose Plastic Surgery (Rhinoplasty),9,Low,10911.04,8400.0,10600.0,"Dr. Christopher D. Cohn at Specialists in Plastic Surgery, Raleigh",https://www.aestheticmatch.com
+Portland,Nose Plastic Surgery (Rhinoplasty),51,Intermediate,13328.0,10600.0,13500.0,Dr. Joseph Yocum,https://www.aestheticmatch.com
+Port St. Lucie,Nose Plastic Surgery (Rhinoplasty),79,Intermediate,8064.0,2500.0,15000.0,Lee Plastic Surgery,https://www.aestheticmatch.com
+Plano,Nose Plastic Surgery (Rhinoplasty),3,Low,8848.0,6400.0,9000.0,Dr. Wilcox,https://www.aestheticmatch.com
+Pittsburgh,Nose Plastic Surgery (Rhinoplasty),66,Intermediate,11424.0,6000.0,14000.0,Dr. Eric A. Pautler,https://www.aestheticmatch.com
+Phoenix,Nose Plastic Surgery (Rhinoplasty),196,High,13608.0,8000.0,15000.0,Dr. Todd Hobgood,https://www.aestheticmatch.com
+Philadelphia,Nose Plastic Surgery (Rhinoplasty),3,Low,9016.0,3500.0,18000.0,Dr. Adrian Lo,https://www.aestheticmatch.com
+Orlando,Nose Plastic Surgery (Rhinoplasty),28,Intermediate,13020.0,10710.0,12765.0,Dr. Michael Gelineau,https://www.aestheticmatch.com
+Omaha,Nose Plastic Surgery (Rhinoplasty),18,Low,8624.0,5000.0,10000.0,Dr. Ayoub at Ayoub Plastic Surgery,https://www.aestheticmatch.com
+Oklahoma City,Nose Plastic Surgery (Rhinoplasty),34,Intermediate,14112.0,7000.0,15000.0,Dr. James Lowe,https://www.aestheticmatch.com
+Oakland,Nose Plastic Surgery (Rhinoplasty),228,High,11368.0,7000.0,15000.0,Dr. Rex Moulton-Barrett,https://www.aestheticmatch.com
+North Las Vegas,Nose Plastic Surgery (Rhinoplasty),45,Intermediate,13776.0,2700.0,17000.0,Dr. Brian J. Parker,https://www.aestheticmatch.com
+Norfolk,Nose Plastic Surgery (Rhinoplasty),8,Low,16016.0,10000.0,20000.0,Dr. John Steinmetz,https://www.aestheticmatch.com
+Newark,Nose Plastic Surgery (Rhinoplasty),49,Intermediate,12544.0,6000.0,50000.0,Dr. Eric M. Joseph,https://www.aestheticmatch.com
+New York,Nose Plastic Surgery (Rhinoplasty),651,High,13216.0,7000.0,25000.0,Dr. David Cangello,https://www.aestheticmatch.com
+New Orleans,Nose Plastic Surgery (Rhinoplasty),58,Intermediate,8460.48,4600.0,15000.0,Dr. Charles G. Thorne,https://www.aestheticmatch.com
+Nashville,Nose Plastic Surgery (Rhinoplasty),1,Low,13776.0,3500.0,16000.0,Dr. David Gilpin,https://www.aestheticmatch.com
+Minneapolis,Nose Plastic Surgery (Rhinoplasty),30,Intermediate,11984.0,10000.0,14000.0,Dr. Tholen,https://www.aestheticmatch.com
+Milwaukee,Nose Plastic Surgery (Rhinoplasty),9,Low,11760.0,6000.0,15000.0,Dr. Anand Patel,https://www.aestheticmatch.com
+Mesa,Nose Plastic Surgery (Rhinoplasty),138,Intermediate,10304.0,6500.0,15000.0,"Dr. Robert Bonillas, MD",https://www.aestheticmatch.com
+Memphis,Nose Plastic Surgery (Rhinoplasty),130,Intermediate,9184.0,6000.0,12000.0,Dr. Phillip Langsdon,https://www.aestheticmatch.com
+Madison,Nose Plastic Surgery (Rhinoplasty),124,Intermediate,11424.0,7000.0,15000.0,Dr. Richard Parfitt,https://www.aestheticmatch.com
+Lubbock,Nose Plastic Surgery (Rhinoplasty),7,Low,10360.0,7000.0,12000.0,"Dr. Edward Daniele, MD",https://www.aestheticmatch.com
+Louisville,Nose Plastic Surgery (Rhinoplasty),120,Intermediate,10304.0,7000.0,13000.0,Dr. Lee Corbett,https://www.aestheticmatch.com
+Long Beach,Nose Plastic Surgery (Rhinoplasty),448,High,10528.0,8000.0,20000.0,Dr. Kevin Sadati,https://www.aestheticmatch.com
+Lincoln,Nose Plastic Surgery (Rhinoplasty),204,High,8624.0,5000.0,10000.0,"Dr. Jacobson, Jacobson Cosmetic Surgery",https://www.aestheticmatch.com
+Lexington,Nose Plastic Surgery (Rhinoplasty),13,Low,12902.4,10000.0,13000.0,Dr. Jared Nimtz,https://www.aestheticmatch.com
+Las Vegas,Nose Plastic Surgery (Rhinoplasty),45,Intermediate,8960.0,2700.0,11000.0,Dr. Brian J. Parker,https://www.aestheticmatch.com
+Laredo,Nose Plastic Surgery (Rhinoplasty),0,Low,8736.0,4000.0,16000.0,Dr. Jose Barrera,https://www.aestheticmatch.com
+Kansas City,Nose Plastic Surgery (Rhinoplasty),73,Intermediate,9184.0,6000.0,14000.0,"Dr. Victor Perez, MD",https://www.aestheticmatch.com
+Jersey City,Nose Plastic Surgery (Rhinoplasty),758,High,16016.0,6000.0,50000.0,Dr. Robert Morin,https://www.aestheticmatch.com
+Jacksonville,Nose Plastic Surgery (Rhinoplasty),26,Intermediate,9072.0,7000.0,9000.0,"Dr. David C. Pearson, M.D.",https://www.aestheticmatch.com
+Irving,Nose Plastic Surgery (Rhinoplasty),30,Intermediate,11732.0,4125.0,22000.0,"Dr. Jesse E. Smith, MD, FACS",https://www.aestheticmatch.com
+Irvine,Nose Plastic Surgery (Rhinoplasty),26,Intermediate,6832.0,3000.0,15000.0,Dr. Babak Sadati,https://www.aestheticmatch.com
+Indianapolis,Nose Plastic Surgery (Rhinoplasty),73,Intermediate,7168.0,4500.0,8500.0,Dr. Barry Eppley,https://www.aestheticmatch.com
+Honolulu,Nose Plastic Surgery (Rhinoplasty),26,Intermediate,6944.0,2000.0,12000.0,Athena Clinic,https://www.aestheticmatch.com
+Hialeah,Nose Plastic Surgery (Rhinoplasty),297,High,7280.0,4000.0,20000.0,Dr. Anthony Bared,https://www.aestheticmatch.com
+Henderson,Nose Plastic Surgery (Rhinoplasty),5,Low,9408.0,2900.0,11000.0,Dr. Brian J. Parker,https://www.aestheticmatch.com
+Greensboro,Nose Plastic Surgery (Rhinoplasty),71,Intermediate,11312.0,5000.0,15000.0,Dr. Roland Hicks,https://www.aestheticmatch.com
+Glendale,Nose Plastic Surgery (Rhinoplasty),7,Low,14000.0,3000.0,20000.0,Dr. Eric J. Yavrouian,https://www.aestheticmatch.com
+Gilbert,Nose Plastic Surgery (Rhinoplasty),5,Low,8512.0,6000.0,14000.0,Dr. Josh Olson,https://www.aestheticmatch.com
+Garland,Nose Plastic Surgery (Rhinoplasty),19,Intermediate,11592.0,4125.0,22000.0,"Dr. Jesse E. Smith, MD, FACS",https://www.aestheticmatch.com
+Frisco,Nose Plastic Surgery (Rhinoplasty),0,Low,12488.0,7000.0,20000.0,Dr. Sean Hill,https://www.aestheticmatch.com
+Fresno,Nose Plastic Surgery (Rhinoplasty),204,High,9688.0,6000.0,14000.0,"Dr. Mark A. Chin, M.D.",https://www.aestheticmatch.com
+Fort Worth,Nose Plastic Surgery (Rhinoplasty),186,High,11424.0,6000.0,14000.0,Dr. Jon Kurkjian,https://www.aestheticmatch.com
+Fort Wayne,Nose Plastic Surgery (Rhinoplasty),22,Intermediate,8512.0,6000.0,14000.0,Dr. Douglas Diepenbrock,https://www.aestheticmatch.com
+El Paso,Nose Plastic Surgery (Rhinoplasty),25,Intermediate,9688.0,6000.0,12000.0,"Dr. Ozan Sozer, M.D.",https://www.aestheticmatch.com
+Durham,Nose Plastic Surgery (Rhinoplasty),7,Low,11312.0,8400.0,10600.0,Dr. David L. Stein,https://www.aestheticmatch.com
+Detroit,Nose Plastic Surgery (Rhinoplasty),10,Low,9296.0,5000.0,11000.0,Dr. Bradley Calobrace,https://www.aestheticmatch.com
+Denver,Nose Plastic Surgery (Rhinoplasty),137,Intermediate,8960.0,5000.0,12000.0,Dr. David Kowalczyk,https://www.aestheticmatch.com
+Corpus Christi,Nose Plastic Surgery (Rhinoplasty),9,Low,7110.88,5800.0,7000.0,Dr. Vijay Bindingnavele,https://www.aestheticmatch.com
+Columbus,Nose Plastic Surgery (Rhinoplasty),9,Low,11256.0,7000.0,15000.0,Dr. Stephen P. Smith Jr. (Smith Facial Plastics),https://www.aestheticmatch.com
+Colorado Springs,Nose Plastic Surgery (Rhinoplasty),41,Intermediate,5958.4,4500.0,15000.0,Dr. Steinwald,https://www.aestheticmatch.com
+Cleveland,Nose Plastic Surgery (Rhinoplasty),25,Intermediate,13552.0,10000.0,15000.0,Dr. Bahman Guyuron,https://www.aestheticmatch.com
+Cincinnati,Nose Plastic Surgery (Rhinoplasty),78,Intermediate,7638.4,5500.0,8000.0,Dr. Alexander Donath,https://www.aestheticmatch.com
+Chula Vista,Nose Plastic Surgery (Rhinoplasty),108,Intermediate,9128.0,6000.0,14000.0,"Dr. Roy David, MD",https://www.aestheticmatch.com
+Chicago,Nose Plastic Surgery (Rhinoplasty),196,High,8786.4,6000.0,14000.0,Dr. Michael Horn,https://www.aestheticmatch.com
+Chesapeake,Nose Plastic Surgery (Rhinoplasty),46,Intermediate,17696.0,5000.0,25000.0,Dr. Bahman Naderi,https://www.aestheticmatch.com
+Charlotte,Nose Plastic Surgery (Rhinoplasty),11,Low,15848.0,7000.0,25000.0,Dr. Jonathan Kulbersh,https://www.aestheticmatch.com
+Chandler,Nose Plastic Surgery (Rhinoplasty),21,Intermediate,10304.0,6500.0,15000.0,Dr. Samuel DeVictor,https://www.aestheticmatch.com
+Cape Coral,Nose Plastic Surgery (Rhinoplasty),63,Intermediate,11760.0,7000.0,15000.0,"Dr. Stephen Prendiville, M.D.",https://www.aestheticmatch.com
+Buffalo,Nose Plastic Surgery (Rhinoplasty),96,Intermediate,9791.04,4500.0,18000.0,"Dr. Sherif Sherris, MD",https://www.aestheticmatch.com
+Boston,Nose Plastic Surgery (Rhinoplasty),13,Low,11368.0,7000.0,14000.0,Dr. Mark Markarian,https://www.aestheticmatch.com
+Boise,Nose Plastic Surgery (Rhinoplasty),19,Intermediate,8512.0,5000.0,12000.0,Dr. Jonathan Kramer,https://www.aestheticmatch.com
+Baltimore,Nose Plastic Surgery (Rhinoplasty),70,Intermediate,12376.0,6000.0,14000.0,Dr. Adam Basner,https://www.aestheticmatch.com
+Bakersfield,Nose Plastic Surgery (Rhinoplasty),16,Low,11368.0,7000.0,15000.0,Dr. Hootan Daneshmand,https://www.aestheticmatch.com
+Austin,Nose Plastic Surgery (Rhinoplasty),0,Low,17796.8,6000.0,14000.0,"Dr. Louis William Apostolakis, M.D.",https://www.aestheticmatch.com
+Aurora,Nose Plastic Surgery (Rhinoplasty),8,Low,10976.0,5000.0,18000.0,Dr. David Kowalczyk,https://www.aestheticmatch.com
+Arlington,Nose Plastic Surgery (Rhinoplasty),11,Low,11368.0,8000.0,20000.0,Dr. Anthony Tran,https://www.aestheticmatch.com
+Anchorage,Nose Plastic Surgery (Rhinoplasty),16,Low,12096.0,7000.0,15000.0,Dr. Christina Magill,https://www.aestheticmatch.com
+Anaheim,Nose Plastic Surgery (Rhinoplasty),451,High,10192.0,6000.0,15000.0,Dr. Kevin Sadati,https://www.aestheticmatch.com
+Albuquerque,Nose Plastic Surgery (Rhinoplasty),17,Low,5936.0,5000.0,10000.0,Dr. Gallegos,https://www.aestheticmatch.com
+Washington,Liposuction,80,Intermediate,4256.0,3000.0,10000.0,Dr. Shlomo Widder,https://www.aestheticmatch.com
+Virginia Beach,Liposuction,36,Intermediate,5880.0,6000.0,14000.0,Dr. Matthew Galardi,https://www.aestheticmatch.com
+Tulsa,Liposuction,21,Intermediate,5964.0,3000.0,7000.0,Dr. Brenda Schiesel,https://www.aestheticmatch.com
+Tucson,Liposuction,21,Intermediate,6160.0,3000.0,8000.0,Dr. Maloney,https://www.aestheticmatch.com
+Toledo,Liposuction,4,Low,3808.0,3200.0,7000.0,"Dr. John F. Zavell, MD, FACS",https://www.aestheticmatch.com
+Stockton,Liposuction,85,Intermediate,9184.0,1500.0,20000.0,Dr. Gerald Bock,https://www.aestheticmatch.com
+St. Petersburg,Liposuction,701,High,6104.0,3500.0,7500.0,"Dr. John J. O'Brien Jr., St. Petersburg Center for Plastic Surgery",https://www.aestheticmatch.com
+St. Louis,Liposuction,701,High,3864.0,6000.0,14000.0,Dr. Wright,https://www.aestheticmatch.com
+Seattle,Liposuction,73,Intermediate,5768.0,3500.0,7500.0,Dr. Santos,https://www.aestheticmatch.com
+Scottsdale,Liposuction,122,Intermediate,6608.0,6000.0,14000.0,Dr. Navjot Singh,https://www.aestheticmatch.com
+Santa Ana,Liposuction,416,High,3533.6,850.0,8500.0,Dr. Tim Roham,https://www.aestheticmatch.com
+San Jose,Liposuction,157,High,7336.0,1200.0,13320.0,Dr. Eric Okamoto,https://www.aestheticmatch.com
+San Francisco,Liposuction,169,High,10976.0,4000.0,80000.0,Dr. Kenneth Bermudez,https://www.aestheticmatch.com
+San Diego,Liposuction,94,Intermediate,15904.0,7000.0,20000.0,Dr. David Kent,https://www.aestheticmatch.com
+San Antonio,Liposuction,141,Intermediate,4144.0,2000.0,10000.0,"Dr. Melanie Carreon, M.D.",https://www.aestheticmatch.com
+Saint Paul,Liposuction,63,Intermediate,9520.0,1500.0,15000.0,Dr. Thao,https://www.aestheticmatch.com
+Sacramento,Liposuction,31,Intermediate,7392.0,5000.0,8000.0,Dr. Rudy Coscia,https://www.aestheticmatch.com
+Riverside,Liposuction,11,Low,6104.0,3500.0,7500.0,Dr. Ben Childers,https://www.aestheticmatch.com
+Richmond,Liposuction,0,Low,4144.0,2000.0,7500.0,Dr. Neil Zemmel,https://www.aestheticmatch.com
+Reno,Liposuction,7,Low,7784.0,3000.0,10000.0,Dr. Dayan,https://www.aestheticmatch.com
+Raleigh,Liposuction,1,Low,8601.6,3700.0,10000.0,Dr. Juan A. Ortiz,https://www.aestheticmatch.com
+Portland,Liposuction,36,Intermediate,7504.0,3500.0,8500.0,Dr. Matthew Lewis,https://www.aestheticmatch.com
+Port St. Lucie,Liposuction,64,Intermediate,3749.76,1999.0,3999.0,Dr. S. Darrell Lee,https://www.aestheticmatch.com
+Plano,Liposuction,3,Low,6272.0,4000.0,9000.0,Dr. Raj Mohan,https://www.aestheticmatch.com
+Pittsburgh,Liposuction,45,Intermediate,6328.0,3000.0,8800.0,Dr. Richard M. Chierici,https://www.aestheticmatch.com
+Phoenix,Liposuction,146,Intermediate,7728.0,1600.0,13000.0,Dr. Paul Wigoda,https://www.aestheticmatch.com
+Philadelphia,Liposuction,1,Low,6888.0,3000.0,11000.0,"Dr. David Bottger, MD",https://www.aestheticmatch.com
+Orlando,Liposuction,19,Intermediate,5488.0,6000.0,14000.0,Dr. Scott Rotatori,https://www.aestheticmatch.com
+Omaha,Liposuction,5,Low,8512.0,6000.0,14000.0,Dr. Anas Ayoub,https://www.aestheticmatch.com
+Oklahoma City,Liposuction,23,Intermediate,3899.84,2100.0,4500.0,Dr. James Lowe,https://www.aestheticmatch.com
+Oakland,Liposuction,171,High,5600.0,4000.0,10000.0,Dr. Gabriel H. Patino,https://www.aestheticmatch.com
+North Las Vegas,Liposuction,38,Intermediate,9800.0,3000.0,12000.0,Dr. Bryson Richards,https://www.aestheticmatch.com
+Norfolk,Liposuction,2,Low,9184.0,4500.0,12500.0,Dr. Niamtu,https://www.aestheticmatch.com
+Newark,Liposuction,26,Intermediate,6944.0,2300.0,8000.0,Dr. Michael Gartner,https://www.aestheticmatch.com
+New York,Liposuction,561,High,6384.0,3000.0,10000.0,"Dr. Thomas P. Sterry, MD",https://www.aestheticmatch.com
+New Orleans,Liposuction,48,Intermediate,4144.0,1500.0,7000.0,Dr. Kamran Khoobehi,https://www.aestheticmatch.com
+Nashville,Liposuction,1,Low,4032.0,6000.0,14000.0,Dr. Michael Cash,https://www.aestheticmatch.com
+Minneapolis,Liposuction,16,Low,6384.0,1500.0,10000.0,Dr. Mesna,https://www.aestheticmatch.com
+Milwaukee,Liposuction,1,Low,5174.4,3500.0,7500.0,Dr. Bonness,https://www.aestheticmatch.com
+Mesa,Liposuction,122,Intermediate,4928.0,2000.0,10000.0,"Dr. Jude LaBarbera, MD",https://www.aestheticmatch.com
+Memphis,Liposuction,73,Intermediate,6137.6,3500.0,7500.0,Dr. Roberto Lachica at The Langsdon Clinic,https://www.aestheticmatch.com
+Madison,Liposuction,127,Intermediate,5600.0,3000.0,8000.0,Dr. David Janssen,https://www.aestheticmatch.com
+Lubbock,Liposuction,7,Low,7112.0,1500.0,11000.0,"Dr. Rowley, Rowley Plastic Surgery",https://www.aestheticmatch.com
+Louisville,Liposuction,95,Intermediate,3738.56,2500.0,4000.0,Dr. Jared Nimtz,https://www.aestheticmatch.com
+Long Beach,Liposuction,419,High,6888.0,3000.0,8500.0,Dr. Saul A. Hurvitz,https://www.aestheticmatch.com
+Lincoln,Liposuction,147,Intermediate,9632.0,7000.0,10000.0,Dr. Jacobson at Jacobson Cosmetic Surgery,https://www.aestheticmatch.com
+Lexington,Liposuction,3,Low,4032.0,2500.0,4500.0,Dr. Jared Nimtz,https://www.aestheticmatch.com
+Las Vegas,Liposuction,38,Intermediate,7784.0,4000.0,10000.0,Dr. Stephen Miller,https://www.aestheticmatch.com
+Laredo,Liposuction,0,Low,14448.0,10000.0,16000.0,Laredo Wellness and Aesthetics,https://www.aestheticmatch.com
+Kansas City,Liposuction,45,Intermediate,9632.0,3500.0,15000.0,Dr. Hlavacek at Kansas City Surgical Arts,https://www.aestheticmatch.com
+Jersey City,Liposuction,692,High,3897.6,1800.0,7800.0,"Dr. Pedy Ganchi, MD",https://www.aestheticmatch.com
+Jacksonville,Liposuction,9,Low,11401.6,1999.0,18999.0,Dr. Sophia Kirk,https://www.aestheticmatch.com
+Irving,Liposuction,25,Intermediate,5230.4,3000.0,17000.0,Dr. Raj Mohan,https://www.aestheticmatch.com
+Irvine,Liposuction,20,Intermediate,6944.0,4500.0,8500.0,Dr. Cruise,https://www.aestheticmatch.com
+Indianapolis,Liposuction,49,Intermediate,8344.0,6000.0,9000.0,Dr. Zollman of Zollman Plastic Surgery,https://www.aestheticmatch.com
+Honolulu,Liposuction,19,Intermediate,7504.0,500.0,4000.0,"Dr. James Y. Fu, MD",https://www.aestheticmatch.com
+Hialeah,Liposuction,327,High,3606.4,1999.0,6000.0,Dr. George Avana,https://www.aestheticmatch.com
+Henderson,Liposuction,0,Low,13664.0,3900.0,20000.0,Dr. Shahin Ghadir,https://www.aestheticmatch.com
+Greensboro,Liposuction,47,Intermediate,6272.0,4700.0,7000.0,Dr. Collier Pace,https://www.aestheticmatch.com
+Glendale,Liposuction,2,Low,4782.4,3299.0,8000.0,Dr. Eric J. Yavrouian,https://www.aestheticmatch.com
+Gilbert,Liposuction,0,Low,13272.0,2000.0,18000.0,"Dr. Jude LaBarbera, MD",https://www.aestheticmatch.com
+Garland,Liposuction,16,Low,7784.0,3000.0,17000.0,Dr. David Liland,https://www.aestheticmatch.com
+Frisco,Liposuction,0,Low,4592.0,3600.0,8500.0,Dr. Raja Mohan,https://www.aestheticmatch.com
+Fresno,Liposuction,192,High,5824.0,3000.0,8000.0,Dr. Mark A. Chin,https://www.aestheticmatch.com
+Fort Worth,Liposuction,165,High,6384.0,3000.0,8000.0,Dr. Steele,https://www.aestheticmatch.com
+Fort Wayne,Liposuction,21,Intermediate,6328.0,3500.0,7500.0,Dr. Diepenbrock (Diepenbrock Facial Cosmetic Surgery),https://www.aestheticmatch.com
+El Paso,Liposuction,13,Low,5680.64,3500.0,7000.0,"Dr. Frank Agullo, MD",https://www.aestheticmatch.com
+Durham,Liposuction,2,Low,7369.6,5400.0,7610.0,Dr. Eric C. Polk,https://www.aestheticmatch.com
+Detroit,Liposuction,6,Low,15064.0,7000.0,20000.0,Dr. Lytle,https://www.aestheticmatch.com
+Denver,Liposuction,110,Intermediate,7280.0,4475.0,13000.0,Dr. Jeff Russell,https://www.aestheticmatch.com
+Corpus Christi,Liposuction,14,Low,5936.0,3000.0,8000.0,"Dr. J. Keith Rose, MD",https://www.aestheticmatch.com
+Columbus,Liposuction,6,Low,11368.0,4000.0,20000.0,Dr. Zochowski,https://www.aestheticmatch.com
+Colorado Springs,Liposuction,22,Intermediate,5896.8,6000.0,14000.0,Dr. Aaron D. Smith,https://www.aestheticmatch.com
+Cleveland,Liposuction,18,Low,5712.0,3000.0,8000.0,"Dr. Gregory M. Fedele, MD",https://www.aestheticmatch.com
+Cincinnati,Liposuction,48,Intermediate,7000.0,3000.0,8500.0,Dr. Matt Goldschmidt,https://www.aestheticmatch.com
+Chula Vista,Liposuction,92,Intermediate,6440.0,3000.0,8000.0,"Dr. Mark Mofid, MD, FACS",https://www.aestheticmatch.com
+Chicago,Liposuction,150,High,6944.0,2995.0,15000.0,Dr. Laurie A. Casas,https://www.aestheticmatch.com
+Chesapeake,Liposuction,36,Intermediate,8064.0,4500.0,12500.0,Dr. Carney,https://www.aestheticmatch.com
+Charlotte,Liposuction,4,Low,6384.0,6000.0,14000.0,Dr. Joel Beck,https://www.aestheticmatch.com
+Chandler,Liposuction,7,Low,5208.0,3500.0,5000.0,"Dr. Olson, Advanced Plastic Surgery Institute",https://www.aestheticmatch.com
+Cape Coral,Liposuction,40,Intermediate,6030.08,3500.0,7500.0,"Dr. Lorraine Golosow, MD",https://www.aestheticmatch.com
+Buffalo,Liposuction,63,Intermediate,6888.0,2000.0,10000.0,Dr. Samuel Shatkin Jr.,https://www.aestheticmatch.com
+Boston,Liposuction,13,Low,8456.0,6000.0,10000.0,Dr. Jeffrey Lee,https://www.aestheticmatch.com
+Boise,Liposuction,10,Low,4928.0,2000.0,7000.0,Dr. Jonathan Kramer,https://www.aestheticmatch.com
+Baltimore,Liposuction,54,Intermediate,8422.4,4400.0,8900.0,"Dr. Ricardo L. Rodriguez, MD",https://www.aestheticmatch.com
+Bakersfield,Liposuction,12,Low,6384.0,3500.0,8000.0,"Dr. Hootan Daneshmand, MD at Silhouette Plastic Surgery Institute",https://www.aestheticmatch.com
+Austin,Liposuction,0,Low,6608.0,3000.0,9800.0,"Dr. Justin West, MD",https://www.aestheticmatch.com
+Aurora,Liposuction,5,Low,8064.0,4475.0,13000.0,Modern Surgical Arts of Denver & Aurora,https://www.aestheticmatch.com
+Arlington,Liposuction,7,Low,15848.0,6800.0,17000.0,Dr. Raj Mohan,https://www.aestheticmatch.com
+Anchorage,Liposuction,5,Low,6350.4,4000.0,7000.0,"Dr. James Lee, MD",https://www.aestheticmatch.com
+Anaheim,Liposuction,424,High,5753.44,3000.0,8000.0,Dr. Kevin Sadati,https://www.aestheticmatch.com
+Albuquerque,Liposuction,8,Low,7616.0,3500.0,8000.0,Dr. Jonathan Hermosa,https://www.aestheticmatch.com
+Washington,Facelift,66,Intermediate,10192.0,3000.0,25000.0,Dr. Michael Schoenfeld,https://www.aestheticmatch.com
+Virginia Beach,Facelift,32,Intermediate,13916.0,3500.0,28000.0,Dr. Joe Choe,https://www.aestheticmatch.com
+Tulsa,Facelift,12,Low,10244.64,7000.0,15000.0,Dr. Angelo Cuzalina,https://www.aestheticmatch.com
+Tucson,Facelift,21,Intermediate,19600.0,9000.0,35000.0,Dr. Todd Hobgood,https://www.aestheticmatch.com
+Toledo,Facelift,7,Low,11312.0,10000.0,12000.0,"Dr. John F. Zavell, MD, FACS",https://www.aestheticmatch.com
+Stockton,Facelift,72,Intermediate,17024.0,8000.0,22000.0,Dr. Charles Perry,https://www.aestheticmatch.com
+St. Petersburg,Facelift,607,High,11760.0,6000.0,14000.0,"Dr. Demetri Arnaoutakis, MD",https://www.aestheticmatch.com
+St. Louis,Facelift,607,High,12600.0,6000.0,14000.0,Dr. John B. Copeland,https://www.aestheticmatch.com
+Seattle,Facelift,57,Intermediate,12544.0,8000.0,14000.0,Dr. Craig Jonov,https://www.aestheticmatch.com
+Scottsdale,Facelift,98,Intermediate,22456.0,15000.0,25000.0,Dr. Todd Hobgood,https://www.aestheticmatch.com
+Santa Ana,Facelift,376,High,11368.0,7000.0,15000.0,Dr. Roham Mozaffari of Roham Advanced Laser & Cosmetic Surgery,https://www.aestheticmatch.com
+San Jose,Facelift,140,Intermediate,15904.0,6000.0,50000.0,Dr. Arash Maan,https://www.aestheticmatch.com
+San Francisco,Facelift,150,High,31360.0,10000.0,50000.0,Dr. Larry Fan,https://www.aestheticmatch.com
+San Diego,Facelift,76,Intermediate,28112.0,6000.0,14000.0,Alexander Cosmetic Surgery,https://www.aestheticmatch.com
+San Antonio,Facelift,132,Intermediate,9744.0,6500.0,10500.0,Dr. Jose Barrera,https://www.aestheticmatch.com
+Saint Paul,Facelift,56,Intermediate,20092.8,16000.0,20000.0,Dr. David Gervais,https://www.aestheticmatch.com
+Sacramento,Facelift,29,Intermediate,27440.0,13000.0,25500.0,Dr. Wayne Yamahata,https://www.aestheticmatch.com
+Riverside,Facelift,16,Low,11289.6,7000.0,15000.0,Dr. Robert Hardesty,https://www.aestheticmatch.com
+Richmond,Facelift,0,Low,13160.0,7000.0,15000.0,Dr. Mark Zinsser,https://www.aestheticmatch.com
+Reno,Facelift,14,Low,9968.0,6000.0,12000.0,Dr. Kyle Yamamoto,https://www.aestheticmatch.com
+Raleigh,Facelift,3,Low,14000.0,10500.0,14700.0,Dr. Joel P. Stein,https://www.aestheticmatch.com
+Portland,Facelift,33,Intermediate,16938.88,10000.0,20000.0,Dr. James Aycock,https://www.aestheticmatch.com
+Port St. Lucie,Facelift,74,Intermediate,16576.0,10000.0,18000.0,Dr. Avron Lipschitz,https://www.aestheticmatch.com
+Plano,Facelift,1,Low,13856.64,6000.0,14000.0,Dr. Brobst,https://www.aestheticmatch.com
+Pittsburgh,Facelift,41,Intermediate,10281.6,7000.0,15000.0,Dr. Paul Leong,https://www.aestheticmatch.com
+Phoenix,Facelift,132,Intermediate,22176.0,15000.0,35000.0,Dr. Todd Hobgood,https://www.aestheticmatch.com
+Philadelphia,Facelift,1,Low,22176.0,14000.0,25000.0,"Dr. Joel E. Pontell, MD",https://www.aestheticmatch.com
+Orlando,Facelift,17,Low,14784.0,7000.0,20000.0,Dr. Gross,https://www.aestheticmatch.com
+Omaha,Facelift,4,Low,13888.0,7000.0,18400.0,Dr. Popp,https://www.aestheticmatch.com
+Oklahoma City,Facelift,20,Intermediate,10248.0,7000.0,15000.0,Dr. Shadfar,https://www.aestheticmatch.com
+Oakland,Facelift,150,High,11312.0,6000.0,20000.0,Dr. Moulton-Barrett,https://www.aestheticmatch.com
+North Las Vegas,Facelift,39,Intermediate,25200.0,6000.0,14000.0,Dr. Jeffrey Roth,https://www.aestheticmatch.com
+Norfolk,Facelift,3,Low,11648.0,3500.0,20000.0,Dr. Jaehak Kim,https://www.aestheticmatch.com
+Newark,Facelift,26,Intermediate,15568.0,6000.0,14000.0,Dr. Pedy Ganchi,https://www.aestheticmatch.com
+New York,Facelift,493,High,50624.0,20000.0,80000.0,Dr. Shaun Parson,https://www.aestheticmatch.com
+New Orleans,Facelift,42,Intermediate,12768.0,6500.0,18200.0,Dr. Richard Moses,https://www.aestheticmatch.com
+Nashville,Facelift,0,Low,15904.0,9800.0,21000.0,Dr. David Gilpin,https://www.aestheticmatch.com
+Minneapolis,Facelift,16,Low,15478.4,12000.0,15300.0,Dr. Mary O’Brien,https://www.aestheticmatch.com
+Milwaukee,Facelift,2,Low,11536.0,7000.0,20000.0,Dr. Campbell at Quintessa,https://www.aestheticmatch.com
+Mesa,Facelift,98,Intermediate,22568.0,7500.0,25000.0,"Dr. Laris, Phoenix Skin",https://www.aestheticmatch.com
+Memphis,Facelift,82,Intermediate,13384.0,7000.0,15000.0,"Dr. Phillip R. Langsdon, MD",https://www.aestheticmatch.com
+Madison,Facelift,99,Intermediate,16576.0,11000.0,18000.0,Dr. David Janssen,https://www.aestheticmatch.com
+Louisville,Facelift,79,Intermediate,23128.0,17000.0,24000.0,Dr. Gerald O’Daniel,https://www.aestheticmatch.com
+Long Beach,Facelift,375,High,10304.0,6000.0,15000.0,Dr. Dan Mills,https://www.aestheticmatch.com
+Lincoln,Facelift,109,Intermediate,10976.0,7000.0,14000.0,"Dr. Jessica Jacobson DO, FAACS",https://www.aestheticmatch.com
+Lexington,Facelift,7,Low,23072.0,6000.0,14000.0,Dr. Jared Nimtz,https://www.aestheticmatch.com
+Las Vegas,Facelift,39,Intermediate,19936.0,8000.0,30000.0,Dr. Jeffrey Roth,https://www.aestheticmatch.com
+Laredo,Facelift,0,Low,10192.0,7000.0,20000.0,"Dr. Marco R. Avila, MD",https://www.aestheticmatch.com
+Kansas City,Facelift,39,Intermediate,19264.0,7000.0,15000.0,Monarch Plastic Surgery,https://www.aestheticmatch.com
+Jersey City,Facelift,604,High,16676.8,6000.0,14000.0,Dr. Michael Kopelman,https://www.aestheticmatch.com
+Jacksonville,Facelift,10,Low,16576.0,10000.0,18000.0,Dr. John G. Csikai,https://www.aestheticmatch.com
+Irving,Facelift,22,Intermediate,22176.0,15000.0,25000.0,"Dr. David Liland, MD, FACS (Dallas, near Irving)",https://www.aestheticmatch.com
+Irvine,Facelift,18,Low,12712.0,6000.0,15000.0,Dr. Goretti Ho Taghva,https://www.aestheticmatch.com
+Indianapolis,Facelift,33,Intermediate,12264.0,10500.0,15000.0,Dr. Stacey Wagner,https://www.aestheticmatch.com
+Honolulu,Facelift,16,Low,9296.0,4000.0,20000.0,Dr. Michael Pasquale,https://www.aestheticmatch.com
+Hialeah,Facelift,257,High,14672.0,10000.0,16000.0,Dr. Armando Soto,https://www.aestheticmatch.com
+Henderson,Facelift,0,Low,20328.0,6000.0,30000.0,Dr. Jeffrey Roth,https://www.aestheticmatch.com
+Greensboro,Facelift,33,Intermediate,14784.0,9000.0,14700.0,Dr. Collier Pace,https://www.aestheticmatch.com
+Glendale,Facelift,2,Low,13608.0,5000.0,18000.0,Dr. Eric Yavrouian,https://www.aestheticmatch.com
+Gilbert,Facelift,0,Low,19936.0,7500.0,35000.0,Dr. Todd Hobgood,https://www.aestheticmatch.com
+Garland,Facelift,9,Low,21504.0,15000.0,22000.0,Dr. Farris Plastic Surgery,https://www.aestheticmatch.com
+Frisco,Facelift,0,Low,9520.0,3500.0,15000.0,Dr. Ken Smart,https://www.aestheticmatch.com
+Fresno,Facelift,160,High,13328.0,8000.0,15000.0,"Dr. John F. Burnett, MD",https://www.aestheticmatch.com
+Fort Worth,Facelift,129,Intermediate,11312.0,7000.0,15000.0,Dr. Robert G. Anderson,https://www.aestheticmatch.com
+Fort Wayne,Facelift,18,Low,12395.04,7000.0,15000.0,Dr. Ryan Diepenbrock,https://www.aestheticmatch.com
+El Paso,Facelift,11,Low,19152.0,10000.0,45000.0,"Dr. Marco A. Gonzalez, MD",https://www.aestheticmatch.com
+Durham,Facelift,3,Low,13664.0,9000.0,15000.0,Dr. Sanjay Daluvoy,https://www.aestheticmatch.com
+Detroit,Facelift,3,Low,22568.0,6000.0,14000.0,"Dr. Mark S. Codner, MD",https://www.aestheticmatch.com
+Denver,Facelift,86,Intermediate,16016.0,8200.0,25000.0,Dr. Steven Vath,https://www.aestheticmatch.com
+Corpus Christi,Facelift,7,Low,11368.0,7000.0,15000.0,"Dr. J. Keith Rose, MD",https://www.aestheticmatch.com
+Columbus,Facelift,8,Low,11312.0,7500.0,12000.0,Dr. Jason Lichten,https://www.aestheticmatch.com
+Colorado Springs,Facelift,19,Intermediate,22176.0,15000.0,25000.0,Dr. Steven Vath,https://www.aestheticmatch.com
+Cleveland,Facelift,11,Low,11424.0,7000.0,15000.0,"Dr. Gregory M. Fedele, MD",https://www.aestheticmatch.com
+Cincinnati,Facelift,46,Intermediate,17024.0,10000.0,17000.0,Dr. Alexander S. Donath,https://www.aestheticmatch.com
+Chula Vista,Facelift,75,Intermediate,12320.0,7000.0,15000.0,"Dr. Ronald J. Edelson, MD",https://www.aestheticmatch.com
+Chicago,Facelift,133,Intermediate,8176.0,3800.0,21000.0,Northwestern Plastic Surgery,https://www.aestheticmatch.com
+Chesapeake,Facelift,32,Intermediate,9968.0,3500.0,20000.0,Dr. Jae Kim,https://www.aestheticmatch.com
+Charlotte,Facelift,5,Low,16912.0,8005.0,30000.0,Dr. Todd Freeman,https://www.aestheticmatch.com
+Chandler,Facelift,8,Low,27776.0,6000.0,14000.0,"Dr. Todd Hobgood, MD",https://www.aestheticmatch.com
+Cape Coral,Facelift,51,Intermediate,24472.0,12000.0,30000.0,Dr. Robert Brueck,https://www.aestheticmatch.com
+Buffalo,Facelift,51,Intermediate,28168.0,18000.0,40000.0,Dr. Todd B. Koch,https://www.aestheticmatch.com
+Boston,Facelift,10,Low,18501.28,5600.0,40000.0,Dr. Mark Markarian,https://www.aestheticmatch.com
+Boise,Facelift,9,Low,14784.0,7000.0,14000.0,Idaho Eyelid & Facial Plastic Surgery,https://www.aestheticmatch.com
+Baltimore,Facelift,37,Intermediate,16624.16,6000.0,14000.0,Dr. Ronald Schuster,https://www.aestheticmatch.com
+Bakersfield,Facelift,11,Low,18032.0,10000.0,17000.0,Dr. Farzin Kerendian,https://www.aestheticmatch.com
+Austin,Facelift,0,Low,14336.0,8000.0,45000.0,Dr. Holzman (Holzman Plastic Surgery),https://www.aestheticmatch.com
+Aurora,Facelift,2,Low,15456.0,8200.0,25000.0,Dr. Steven Vath,https://www.aestheticmatch.com
+Arlington,Facelift,6,Low,30240.0,15000.0,27425.0,"Dr. Steven Camp, MD",https://www.aestheticmatch.com
+Anchorage,Facelift,4,Low,11368.0,7000.0,15000.0,"Dr. Daniel Suver, MD, FACS",https://www.aestheticmatch.com
+Anaheim,Facelift,381,High,12600.0,6000.0,15000.0,Dr. Daniel Mills,https://www.aestheticmatch.com
+Albuquerque,Facelift,8,Low,9632.0,6250.0,10000.0,Dr. Miguel Gallegos,https://www.aestheticmatch.com
+Washington,Breast Reduction,140,Intermediate,10248.0,7995.0,12850.0,Dr. Kimberly Henry,https://www.aestheticmatch.com
+Virginia Beach,Breast Reduction,64,Intermediate,10248.0,7995.0,12850.0,Dr. Brent Sundin,https://www.aestheticmatch.com
+Tulsa,Breast Reduction,29,Intermediate,8624.0,7000.0,10000.0,"Dr. Brenda Schiesel, MD",https://www.aestheticmatch.com
+Tucson,Breast Reduction,29,Intermediate,8523.2,5000.0,10000.0,Dr. Sanchez-Navarro,https://www.aestheticmatch.com
+Toledo,Breast Reduction,16,Low,8568.0,5050.0,10000.0,Dr. Frank Barone,https://www.aestheticmatch.com
+Stockton,Breast Reduction,133,Intermediate,8528.8,6000.0,9000.0,A leading breast reduction surgeon at Beautologie Cosmetic Surgery & Medical Aesthetics,https://www.aestheticmatch.com
+St. Petersburg,Breast Reduction,809,High,10864.0,2900.0,11200.0,Dr. Traci Temmen,https://www.aestheticmatch.com
+St. Louis,Breast Reduction,809,High,10432.8,6000.0,14000.0,Dr. Wright,https://www.aestheticmatch.com
+Seattle,Breast Reduction,119,Intermediate,9800.0,7800.0,9000.0,Dr. Jeffrey H. Barnett,https://www.aestheticmatch.com
+Scottsdale,Breast Reduction,137,Intermediate,11592.0,8000.0,12500.0,Dr. Sanniec,https://www.aestheticmatch.com
+Santa Ana,Breast Reduction,466,High,14784.0,6000.0,15000.0,Dr. Tim Roham,https://www.aestheticmatch.com
+San Jose,Breast Reduction,236,High,22176.0,15000.0,25000.0,Dr. Alexander Ereso,https://www.aestheticmatch.com
+San Francisco,Breast Reduction,247,High,22624.0,18000.0,50000.0,Dr. Orna Fisher,https://www.aestheticmatch.com
+San Diego,Breast Reduction,96,Intermediate,15792.0,6000.0,14000.0,Dr. Vincent Marin,https://www.aestheticmatch.com
+San Antonio,Breast Reduction,168,High,8512.0,5000.0,10500.0,Dr. Michael Ablavsky,https://www.aestheticmatch.com
+Saint Paul,Breast Reduction,94,Intermediate,12521.6,7000.0,14000.0,Dr. David Thao,https://www.aestheticmatch.com
+Sacramento,Breast Reduction,63,Intermediate,11984.0,9500.0,13000.0,Dr. Wayne Yamahata,https://www.aestheticmatch.com
+Riverside,Breast Reduction,26,Intermediate,13081.6,8000.0,15000.0,Dr. Ben Childers,https://www.aestheticmatch.com
+Richmond,Breast Reduction,2,Low,11704.0,9380.0,12000.0,Dr. Lewis at Lewis Plastic Surgery,https://www.aestheticmatch.com
+Reno,Breast Reduction,16,Low,8568.0,5293.0,9130.0,Dr. McCormack and Dr. Joslyn (Reno Tahoe Plastic Surgery),https://www.aestheticmatch.com
+Raleigh,Breast Reduction,5,Low,11928.0,10500.0,10900.0,North Raleigh Plastic Surgery,https://www.aestheticmatch.com
+Portland,Breast Reduction,61,Intermediate,18032.0,7800.0,18285.0,"Dr. Austin Hayes, MD",https://www.aestheticmatch.com
+Port St. Lucie,Breast Reduction,71,Intermediate,10724.0,7000.0,10000.0,Dr. David Lickstein,https://www.aestheticmatch.com
+Plano,Breast Reduction,4,Low,14560.0,8000.0,16700.0,Dr. Steven Camp,https://www.aestheticmatch.com
+Pittsburgh,Breast Reduction,64,Intermediate,8512.0,3300.0,8900.0,Dr. Theodore Foley,https://www.aestheticmatch.com
+Phoenix,Breast Reduction,201,High,10136.0,2700.0,20000.0,Dr. Steven Turkeltaub,https://www.aestheticmatch.com
+Philadelphia,Breast Reduction,3,Low,14784.0,8000.0,19000.0,Dr. Adrian Lo,https://www.aestheticmatch.com
+Orlando,Breast Reduction,24,Intermediate,9184.0,7000.0,17395.0,Dr. Jon Paul Trevisani,https://www.aestheticmatch.com
+Omaha,Breast Reduction,12,Low,10035.2,5010.0,8642.0,Dr. Alex Ayoub,https://www.aestheticmatch.com
+Oklahoma City,Breast Reduction,32,Intermediate,8691.2,5100.0,9300.0,"Surgeon at 9020 E. Reno Avenue, Floor 2, OKC (5.0 rating on MDsave)",https://www.aestheticmatch.com
+Oakland,Breast Reduction,247,High,20720.0,15000.0,25000.0,Dr. Patino,https://www.aestheticmatch.com
+North Las Vegas,Breast Reduction,39,Intermediate,12760.16,4000.0,15000.0,Dr. Frank L. Stile,https://www.aestheticmatch.com
+Norfolk,Breast Reduction,9,Low,12096.0,6771.0,12500.0,Dr. Dennis K. Hammond,https://www.aestheticmatch.com
+Newark,Breast Reduction,45,Intermediate,9520.0,6700.0,13000.0,Dr. Spiro,https://www.aestheticmatch.com
+New York,Breast Reduction,653,High,11368.0,8000.0,15000.0,Dr. Richard H. Baxter,https://www.aestheticmatch.com
+New Orleans,Breast Reduction,65,Intermediate,11368.0,8000.0,13000.0,"Dr. Randy Sadeghi, MD at Sadeghi Plastic Surgery",https://www.aestheticmatch.com
+Nashville,Breast Reduction,3,Low,10136.0,7995.0,12850.0,Dr. Joshua Greenwald,https://www.aestheticmatch.com
+Minneapolis,Breast Reduction,24,Intermediate,14728.0,12000.0,14000.0,"Board-certified surgeons at Minneapolis Plastic Surgery, LTD",https://www.aestheticmatch.com
+Milwaukee,Breast Reduction,6,Low,8568.0,5000.0,10000.0,Dr. Robert Bonness,https://www.aestheticmatch.com
+Mesa,Breast Reduction,137,Intermediate,9520.0,6000.0,17000.0,Dr. Jason L. Marks,https://www.aestheticmatch.com
+Memphis,Breast Reduction,107,Intermediate,10024.0,5000.0,11000.0,"Dr. Mark Plauche at NuBody Concepts, Memphis",https://www.aestheticmatch.com
+Madison,Breast Reduction,172,High,10360.0,5000.0,14000.0,Dr. Bonness,https://www.aestheticmatch.com
+Lubbock,Breast Reduction,8,Low,9184.0,7000.0,13000.0,Dr. Rowley,https://www.aestheticmatch.com
+Louisville,Breast Reduction,97,Intermediate,13910.4,6000.0,14000.0,Dr. Aaron Calobrace,https://www.aestheticmatch.com
+Long Beach,Breast Reduction,464,High,15256.64,12000.0,15000.0,Dr. Keith A. Hurvitz,https://www.aestheticmatch.com
+Lincoln,Breast Reduction,225,High,10169.6,7995.0,12850.0,Dr. David Jacobson,https://www.aestheticmatch.com
+Lexington,Breast Reduction,4,Low,9128.0,6000.0,14000.0,Dr. Jared Nimtz,https://www.aestheticmatch.com
+Las Vegas,Breast Reduction,39,Intermediate,12852.0,4000.0,25000.0,Dr. Brian J. Parker,https://www.aestheticmatch.com
+Laredo,Breast Reduction,0,Low,8534.4,4666.0,11442.0,Alamo Plastic Surgery,https://www.aestheticmatch.com
+Kansas City,Breast Reduction,73,Intermediate,10080.0,4000.0,12850.0,Dr. Jack Peterson,https://www.aestheticmatch.com
+Jersey City,Breast Reduction,800,High,11088.0,6000.0,14000.0,"Dr. Alexis Parcells, MD, New Jersey",https://www.aestheticmatch.com
+Jacksonville,Breast Reduction,21,Intermediate,9576.0,7900.0,8900.0,Dr. Sofia Kirk,https://www.aestheticmatch.com
+Irving,Breast Reduction,30,Intermediate,10752.0,8400.0,13500.0,"Dr. Lawrence R. Farris, MD",https://www.aestheticmatch.com
+Irvine,Breast Reduction,24,Intermediate,11592.0,6000.0,14000.0,Dr. Karen Leong,https://www.aestheticmatch.com
+Indianapolis,Breast Reduction,80,Intermediate,9072.0,4500.0,12271.0,The Gillian Institute (Indy Plastic Surgery),https://www.aestheticmatch.com
+Honolulu,Breast Reduction,22,Intermediate,10192.0,8000.0,13000.0,Athena Clinic,https://www.aestheticmatch.com
+Hialeah,Breast Reduction,279,High,10131.52,6000.0,14000.0,"Dr. Tal T Roudner, MD",https://www.aestheticmatch.com
+Henderson,Breast Reduction,3,Low,19152.0,14000.0,25000.0,Dr. Jeffrey Roth,https://www.aestheticmatch.com
+Greensboro,Breast Reduction,75,Intermediate,9072.0,4857.0,10500.0,Dr. David Bowers,https://www.aestheticmatch.com
+Glendale,Breast Reduction,4,Low,15568.0,12660.0,15000.0,Dr. Ara K. Vartany,https://www.aestheticmatch.com
+Gilbert,Breast Reduction,3,Low,12180.0,6000.0,17000.0,Dr. Gawley,https://www.aestheticmatch.com
+Garland,Breast Reduction,20,Intermediate,10382.4,6000.0,14000.0,Dr. Farris,https://www.aestheticmatch.com
+Frisco,Breast Reduction,0,Low,10752.0,6500.0,13500.0,"Dr. Ken Smart, MD",https://www.aestheticmatch.com
+Fresno,Breast Reduction,214,High,11368.0,6000.0,14000.0,Dr. Sian,https://www.aestheticmatch.com
+Fort Worth,Breast Reduction,200,High,13608.0,11000.0,13000.0,"Dr. Steven Camp, MD",https://www.aestheticmatch.com
+Fort Wayne,Breast Reduction,37,Intermediate,10242.4,8000.0,12000.0,Aspire Plastic Surgery,https://www.aestheticmatch.com
+El Paso,Breast Reduction,11,Low,11312.0,7000.0,14000.0,"Dr. Marco A. Gonzalez, MD",https://www.aestheticmatch.com
+Durham,Breast Reduction,3,Low,11956.0,10000.0,11000.0,Duke University Health System plastic surgeons,https://www.aestheticmatch.com
+Detroit,Breast Reduction,9,Low,7952.0,4640.0,10000.0,"Dr. Scott Brenman, MD",https://www.aestheticmatch.com
+Denver,Breast Reduction,169,High,17808.0,11000.0,21000.0,Dr. Steven Vath,https://www.aestheticmatch.com
+Corpus Christi,Breast Reduction,12,Low,9072.0,7800.0,12850.0,Dr. Vijay Bindingnavele,https://www.aestheticmatch.com
+Columbus,Breast Reduction,13,Low,8960.0,5000.0,8200.0,Dr. Anne Taylor,https://www.aestheticmatch.com
+Colorado Springs,Breast Reduction,28,Intermediate,9968.0,8500.0,9900.0,Dr. Jessica R. Sherry,https://www.aestheticmatch.com
+Cleveland,Breast Reduction,26,Intermediate,5768.0,5000.0,6000.0,Dr. Husni,https://www.aestheticmatch.com
+Cincinnati,Breast Reduction,71,Intermediate,6944.0,4400.0,6100.0,Dr. Donna Krummen,https://www.aestheticmatch.com
+Chula Vista,Breast Reduction,94,Intermediate,13664.0,10000.0,15000.0,Dr. Jonathan Eastlack,https://www.aestheticmatch.com
+Chicago,Breast Reduction,205,High,9296.0,5900.0,16000.0,Dr. Michael Horn,https://www.aestheticmatch.com
+Chesapeake,Breast Reduction,64,Intermediate,11872.0,10500.0,12500.0,"Dr. Julia C. Stevenson, MD (Cardinal Plastic Surgery)",https://www.aestheticmatch.com
+Charlotte,Breast Reduction,11,Low,10248.0,6000.0,14000.0,"Dr. G. Laurie Casas at GH Surgery, Charlotte",https://www.aestheticmatch.com
+Chandler,Breast Reduction,15,Low,10864.0,5547.0,16000.0,Dr. Daniel Olson,https://www.aestheticmatch.com
+Cape Coral,Breast Reduction,46,Intermediate,9710.4,3000.0,15000.0,Dr. Davek Sharma,https://www.aestheticmatch.com
+Buffalo,Breast Reduction,104,Intermediate,10304.0,8000.0,15000.0,Dr. James Quatela,https://www.aestheticmatch.com
+Boston,Breast Reduction,17,Low,15534.4,6000.0,14000.0,"Dr. Sean Doherty, MD",https://www.aestheticmatch.com
+Boise,Breast Reduction,16,Low,10024.0,4958.0,12850.0,Dr. John D. Wigod,https://www.aestheticmatch.com
+Baltimore,Breast Reduction,81,Intermediate,10304.0,6000.0,14000.0,Dr. Sarah Mess,https://www.aestheticmatch.com
+Bakersfield,Breast Reduction,17,Low,11424.0,7000.0,14000.0,"Dr. Stephen Mitts, Mitts Plastic Surgery, Bakersfield",https://www.aestheticmatch.com
+Austin,Breast Reduction,0,Low,9744.0,5500.0,14500.0,Dr. Aisha D. White,https://www.aestheticmatch.com
+Aurora,Breast Reduction,5,Low,13104.0,11000.0,21000.0,"Dr. Jennifer Emmett, MD",https://www.aestheticmatch.com
+Arlington,Breast Reduction,9,Low,10416.0,6000.0,16700.0,Dr. Steven Camp,https://www.aestheticmatch.com
+Anchorage,Breast Reduction,11,Low,10528.0,6633.0,18587.0,Plastic Surgeons of Alaska,https://www.aestheticmatch.com
+Anaheim,Breast Reduction,471,High,14672.0,8000.0,15000.0,"Dr. Saba Motakef, MD",https://www.aestheticmatch.com
+Albuquerque,Breast Reduction,19,Intermediate,7392.0,4887.0,8431.0,"Dr. Miguel Gallegos, Hermosa Plastic Surgery",https://www.aestheticmatch.com
+Washington,Breast Implants,83,Intermediate,10242.4,6000.0,12000.0,Dr. Barry Eppley,https://www.aestheticmatch.com
+Virginia Beach,Breast Implants,36,Intermediate,5488.0,4875.0,8000.0,"Dr. Galardi, Galardi | Bowen Plastic Surgery",https://www.aestheticmatch.com
+Tulsa,Breast Implants,21,Intermediate,6496.0,4500.0,7000.0,Dr. Tim R. Love,https://www.aestheticmatch.com
+Tucson,Breast Implants,22,Intermediate,8024.8,6300.0,8200.0,Dr. Julian Guerra,https://www.aestheticmatch.com
+Toledo,Breast Implants,7,Low,7336.0,6000.0,7000.0,Dr. Matt Goldschmidt,https://www.aestheticmatch.com
+Stockton,Breast Implants,96,Intermediate,9632.0,6000.0,14000.0,Beautologie Stockton,https://www.aestheticmatch.com
+St. Petersburg,Breast Implants,655,High,6630.4,4500.0,7000.0,Dr. John J. O'Brien Jr.,https://www.aestheticmatch.com
+St. Louis,Breast Implants,655,High,9072.0,6000.0,10000.0,"Dr. Copeland, Copeland Cosmetic Surgery",https://www.aestheticmatch.com
+Seattle,Breast Implants,69,Intermediate,8064.0,4995.0,15000.0,Dr. Kris Day at Pacific Sound Plastic Surgery,https://www.aestheticmatch.com
+Scottsdale,Breast Implants,114,Intermediate,8008.0,5000.0,10000.0,Dr. Kevin Parson,https://www.aestheticmatch.com
+Santa Ana,Breast Implants,401,High,6944.0,2700.0,12000.0,"Dr. Michael A. Jazayeri, M.D.",https://www.aestheticmatch.com
+San Jose,Breast Implants,164,High,10864.0,7000.0,12000.0,Dr. Alexander Ereso,https://www.aestheticmatch.com
+San Francisco,Breast Implants,178,High,9744.0,6500.0,24000.0,Dr. Fan,https://www.aestheticmatch.com
+San Diego,Breast Implants,93,Intermediate,9979.2,6000.0,14000.0,Dr. Waltzman,https://www.aestheticmatch.com
+San Antonio,Breast Implants,146,Intermediate,5264.0,4000.0,10000.0,Dr. Constance Barone,https://www.aestheticmatch.com
+Saint Paul,Breast Implants,69,Intermediate,6356.0,4000.0,8000.0,Dr. Heather Rocheford,https://www.aestheticmatch.com
+Sacramento,Breast Implants,38,Intermediate,7784.0,5920.0,6941.0,Dr. Wayne Yamahata,https://www.aestheticmatch.com
+Riverside,Breast Implants,13,Low,7840.0,6000.0,10000.0,Dr. Ben Childers,https://www.aestheticmatch.com
+Richmond,Breast Implants,0,Low,9000.32,5000.0,8200.0,"Dr. Sundin, Virginia Institute of Plastic Surgery",https://www.aestheticmatch.com
+Reno,Breast Implants,14,Low,9072.0,8000.0,10000.0,Dr. James E. Murphy,https://www.aestheticmatch.com
+Raleigh,Breast Implants,3,Low,8680.0,6000.0,10000.0,Dr. Glenn Lyle,https://www.aestheticmatch.com
+Portland,Breast Implants,37,Intermediate,9128.0,7000.0,9000.0,Dr. Michael Bohley,https://www.aestheticmatch.com
+Port St. Lucie,Breast Implants,67,Intermediate,7672.0,6000.0,14000.0,Dr. Brian Lee,https://www.aestheticmatch.com
+Plano,Breast Implants,2,Low,7616.0,6000.0,12000.0,Dr. Steven Camp,https://www.aestheticmatch.com
+Pittsburgh,Breast Implants,53,Intermediate,9153.76,6000.0,10000.0,Dr. Lorelei Grunwaldt,https://www.aestheticmatch.com
+Phoenix,Breast Implants,156,High,7580.16,6300.0,8200.0,Dr. Ricardo Guerra,https://www.aestheticmatch.com
+Philadelphia,Breast Implants,0,Low,11144.0,8000.0,11000.0,Dr. Bottger,https://www.aestheticmatch.com
+Orlando,Breast Implants,15,Low,7168.0,4000.0,10000.0,Dr. Kamran Azad,https://www.aestheticmatch.com
+Omaha,Breast Implants,7,Low,8512.0,5000.0,10000.0,Dr. Mohamed Ayoub,https://www.aestheticmatch.com
+Oklahoma City,Breast Implants,22,Intermediate,7392.0,3500.0,12500.0,Dr. Tim R. Love,https://www.aestheticmatch.com
+Oakland,Breast Implants,181,High,10752.0,7000.0,12000.0,Dr. Patino,https://www.aestheticmatch.com
+North Las Vegas,Breast Implants,37,Intermediate,7168.0,5800.0,7850.0,Dr. Hayley Brown,https://www.aestheticmatch.com
+Norfolk,Breast Implants,3,Low,12264.0,8500.0,13500.0,Dr. Lukas N. Troell,https://www.aestheticmatch.com
+Newark,Breast Implants,32,Intermediate,7616.0,6000.0,14000.0,Dr. Pedy Ganchi,https://www.aestheticmatch.com
+New York,Breast Implants,546,High,9184.0,6000.0,14000.0,Dr. David Cangello,https://www.aestheticmatch.com
+New Orleans,Breast Implants,49,Intermediate,7257.6,4900.0,10500.0,Dr. Robyn Moses,https://www.aestheticmatch.com
+Nashville,Breast Implants,0,Low,8657.6,6000.0,14000.0,Dr. Brian P. Tierney,https://www.aestheticmatch.com
+Minneapolis,Breast Implants,19,Intermediate,7000.0,4500.0,8500.0,Dr. Heather Rocheford,https://www.aestheticmatch.com
+Milwaukee,Breast Implants,1,Low,10752.0,9000.0,10000.0,"Dr. Butz and Dr. Thayer at Quintessa, Milwaukee",https://www.aestheticmatch.com
+Mesa,Breast Implants,114,Intermediate,8064.0,5000.0,15000.0,Dr. Guerra,https://www.aestheticmatch.com
+Memphis,Breast Implants,76,Intermediate,7616.0,3000.0,10000.0,Dr. Scott Turner,https://www.aestheticmatch.com
+Madison,Breast Implants,127,Intermediate,10808.0,9000.0,10000.0,Dr. Troell,https://www.aestheticmatch.com
+Lubbock,Breast Implants,5,Low,8568.0,6000.0,10000.0,Dr. Kipp S. Towne,https://www.aestheticmatch.com
+Louisville,Breast Implants,84,Intermediate,10024.0,8700.0,10000.0,Dr. Lee Corbett,https://www.aestheticmatch.com
+Long Beach,Breast Implants,404,High,9072.0,5000.0,10000.0,Dr. Josh Waltzman,https://www.aestheticmatch.com
+Lincoln,Breast Implants,153,High,10024.0,6000.0,14000.0,Dr. Mitchell,https://www.aestheticmatch.com
+Lexington,Breast Implants,4,Low,8736.0,5100.0,18465.0,Plastic Surgeons of Lexington,https://www.aestheticmatch.com
+Las Vegas,Breast Implants,37,Intermediate,8312.64,6800.0,8500.0,Dr. Kush Pancholi,https://www.aestheticmatch.com
+Laredo,Breast Implants,0,Low,6384.0,5000.0,8000.0,"Dr. Lance Troell, MD",https://www.aestheticmatch.com
+Kansas City,Breast Implants,57,Intermediate,8540.0,6000.0,14000.0,"Dr. Levi Young, Advanced Cosmetic Surgery KC",https://www.aestheticmatch.com
+Jersey City,Breast Implants,645,High,8176.0,5500.0,10000.0,"Dr. Pedy Ganchi, MD",https://www.aestheticmatch.com
+Jacksonville,Breast Implants,19,Intermediate,6272.0,4000.0,7000.0,Dr. James Hardy,https://www.aestheticmatch.com
+Irving,Breast Implants,23,Intermediate,7056.0,5700.0,9000.0,Dr. Jerry W. Troell in Irving,https://www.aestheticmatch.com
+Irvine,Breast Implants,15,Low,9184.0,7000.0,10000.0,Dr. Dan Mills,https://www.aestheticmatch.com
+Indianapolis,Breast Implants,45,Intermediate,6440.0,5000.0,12000.0,Dr. Kimberly Short,https://www.aestheticmatch.com
+Honolulu,Breast Implants,19,Intermediate,10584.0,8700.0,12000.0,Dr. Conrad Tirre,https://www.aestheticmatch.com
+Hialeah,Breast Implants,273,High,5712.0,2300.0,12000.0,"Dr. Daniel Barrett, MD",https://www.aestheticmatch.com
+Henderson,Breast Implants,1,Low,7784.0,5800.0,14000.0,"Dr. Himansu Shah, MD, FACS",https://www.aestheticmatch.com
+Greensboro,Breast Implants,43,Intermediate,8848.0,4800.0,8000.0,Dr. H. Christopher Coley,https://www.aestheticmatch.com
+Glendale,Breast Implants,3,Low,9744.0,7500.0,9000.0,"Dr. Vartan Mardirossian, MD",https://www.aestheticmatch.com
+Gilbert,Breast Implants,3,Low,8624.0,6000.0,14000.0,Dr. Richard Guerra,https://www.aestheticmatch.com
+Garland,Breast Implants,16,Low,9688.0,6000.0,14000.0,Dr. Farris,https://www.aestheticmatch.com
+Frisco,Breast Implants,0,Low,7448.0,5000.0,7900.0,"Dr. Ken Smart, MD",https://www.aestheticmatch.com
+Fresno,Breast Implants,192,High,8400.0,5000.0,10000.0,Dr. Mark A. Chin,https://www.aestheticmatch.com
+Fort Worth,Breast Implants,166,High,9184.0,6000.0,16500.0,Dr. Kunkel,https://www.aestheticmatch.com
+Fort Wayne,Breast Implants,19,Intermediate,7056.0,5000.0,7000.0,"Dr. Joe, Plastic Surgery Innovations, Fort Wayne",https://www.aestheticmatch.com
+El Paso,Breast Implants,11,Low,6272.0,4400.0,7000.0,"Dr. Marco A. Gonzalez, MD",https://www.aestheticmatch.com
+Durham,Breast Implants,2,Low,8601.6,7500.0,8000.0,"Dr. Zachary Tannan, MD (Raleigh)",https://www.aestheticmatch.com
+Detroit,Breast Implants,6,Low,8792.0,4800.0,11000.0,Dr. Andrew Lofman,https://www.aestheticmatch.com
+Denver,Breast Implants,114,Intermediate,10192.0,8800.0,10500.0,"Dr. Adam Levy, MD",https://www.aestheticmatch.com
+Corpus Christi,Breast Implants,13,Low,7952.0,7000.0,8000.0,Dr. Vijay Bindingnavele,https://www.aestheticmatch.com
+Columbus,Breast Implants,5,Low,9094.4,6000.0,14000.0,Dr. Michael Donaldson,https://www.aestheticmatch.com
+Colorado Springs,Breast Implants,21,Intermediate,11144.0,6000.0,14000.0,Institute of Plastic Surgery,https://www.aestheticmatch.com
+Cleveland,Breast Implants,19,Intermediate,4816.0,3900.0,5500.0,Dr. Matt Goldschmidt,https://www.aestheticmatch.com
+Cincinnati,Breast Implants,51,Intermediate,7896.0,6950.0,10000.0,Dr. David T. Troell,https://www.aestheticmatch.com
+Chula Vista,Breast Implants,91,Intermediate,9744.0,5000.0,10000.0,Eastlake Cosmetic Surgery,https://www.aestheticmatch.com
+Chicago,Breast Implants,160,High,9072.0,6995.0,25000.0,Dr. Michael Horn,https://www.aestheticmatch.com
+Chesapeake,Breast Implants,36,Intermediate,8677.76,5000.0,10000.0,Dr. William Troell,https://www.aestheticmatch.com
+Charlotte,Breast Implants,8,Low,10001.6,8000.0,12000.0,Dr. Erik J. Miles,https://www.aestheticmatch.com
+Chandler,Breast Implants,7,Low,8601.6,6300.0,8200.0,Dr. Guerra at Guerra Plastic Surgery Center,https://www.aestheticmatch.com
+Cape Coral,Breast Implants,51,Intermediate,9520.0,5300.0,10000.0,Dr. Kent V. Hasen,https://www.aestheticmatch.com
+Buffalo,Breast Implants,65,Intermediate,5952.8,4500.0,6000.0,Dr. Andrew Giacobbe,https://www.aestheticmatch.com
+Boston,Breast Implants,13,Low,13216.0,7900.0,18500.0,Dr. Sean Doherty,https://www.aestheticmatch.com
+Boise,Breast Implants,9,Low,8400.0,5100.0,18465.0,Dr. Jonathan Kramer,https://www.aestheticmatch.com
+Baltimore,Breast Implants,60,Intermediate,7840.0,4000.0,10500.0,Dr. Sarah Mess,https://www.aestheticmatch.com
+Bakersfield,Breast Implants,14,Low,9072.0,6000.0,12000.0,Dr. Sean Younai,https://www.aestheticmatch.com
+Austin,Breast Implants,0,Low,7504.0,5500.0,10000.0,"Dr. Steven Camp, MD",https://www.aestheticmatch.com
+Aurora,Breast Implants,3,Low,10472.0,8800.0,9700.0,Dr. Steven Thompson at Modern Surgical Arts,https://www.aestheticmatch.com
+Arlington,Breast Implants,7,Low,7683.2,6725.0,16500.0,Dr. Vishnu Rumalla,https://www.aestheticmatch.com
+Anchorage,Breast Implants,6,Low,8288.0,3800.0,18465.0,Dr. Thomas Kramer,https://www.aestheticmatch.com
+Anaheim,Breast Implants,407,High,9184.0,6000.0,14000.0,"Dr. Saba Motakef, MD",https://www.aestheticmatch.com
+Albuquerque,Breast Implants,11,Low,6272.0,4600.0,7200.0,Dr. Paul Gallegos,https://www.aestheticmatch.com
