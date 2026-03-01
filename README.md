@@ -8,7 +8,7 @@ techniques with Python and Pandas in Google Colab.
 ---
 
 ## Dataset
-**Source:** [`surgery_cleaned.csv`](https://raw.githubusercontent.com/nicolas-almeida-v/pandas-data-cleaning-us-surgery/refs/heads/main/cleaned_surgery.csv) — cleaned dataset from my previous project  
+**Source:** [`surgery_cleaned.csv`](cleaned_surgery.csv) — cleaned dataset from my previous project  
 
 **Original dataset:** US Surgery Dataset from [Kaggle](https://www.kaggle.com/datasets/saikumargope/us-surgery-dataset) by SAI KUMAR.GOPE
 License: Community Data License Agreement – Permissive v1.0
